@@ -2,12 +2,12 @@
 
  ## Rescuetime
  
- ![Rescuetime](./image/p1.png)
+![Rescuetime](./image/p1.png)
  
  ## Paiza
  
-  ![oshito.manabu](./image/p2.png)
-  ![恋するハッカソン](./image/p3.png)
+ -![oshito.manabu](./image/p2.png)
+ -![恋するハッカソン](./image/p3.png)
  
  
  ## Python3
